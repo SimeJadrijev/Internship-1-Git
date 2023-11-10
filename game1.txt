@@ -1,6 +1,6 @@
 Borna ima 0 pobjeda i 0 poraza!
 Sime ima 0 pobjeda i 0 poraza!
 
-x . .
+x O .
 . O .
 . . .
