@@ -3,5 +3,5 @@ Sime ima 1 pobjeda i 2 poraza!
 
 O . x
 . O O
-x . x
+x x x
 
